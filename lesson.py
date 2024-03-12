@@ -195,3 +195,16 @@
 
 # print(travel)
 
+
+# stocks = []
+
+# for _ in range(3):
+#     name = (input('Səhmin adını daxil edin: '))
+#     quantity = int((input('Səhmin sayını daxil edin: ')))
+#     price = int((input('Səhmin qiymətini daxil edin: ')))
+#     all = (quantity * price)
+#     stocks.append(all)
+    
+
+# print(stocks)
+
