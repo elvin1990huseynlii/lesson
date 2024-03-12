@@ -158,3 +158,40 @@
 #     smartphone.append(userinput)
 
 # print(smartphone)
+
+
+
+# 7 - Nəqliyyat:
+# Qət olunmuş məsafəyə və alınan vaxta əsasən avtomobilin orta sürətini hesablayan Python proqramı yaradın. 
+# İstifadəçini daxil etməyi təklif edin və hesablanmış orta sürəti göstərin.
+
+
+# speed = []
+
+# for _ in range(1):
+#     distance = float((input('Məsafəni daxil edin: ')))
+#     time = float((input('Zamanı daxil edin: ')))
+#     cal = (distance / time)
+#     speed.append(cal)
+    
+
+# print(speed)
+
+
+
+# 13 - Səyahət Sənayesi:
+# Aviabilet, otel və avtomobil icarəsi daxil olmaqla səyahətin ümumi dəyərini hesablayan Python proqramı yazın. 
+# Proqram hər bir xərc üçün məlumatı götürməli və ümumi dəyəri çap etməlidir.
+
+# travel = []
+
+# for _ in range(1):
+#     ticket_price = int((input('Aviabiletin qiymətini daxil edin: ')))
+#     hotel_price = int((input('Otelin qiymətini daxil edin: ')))
+#     car_rent_price = int((input('Avtomabil icarəsi qiymətini daxil edin: ')))
+#     all = (ticket_price + hotel_price + car_rent_price)
+#     travel.append(all)
+    
+
+# print(travel)
+
