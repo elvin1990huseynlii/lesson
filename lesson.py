@@ -211,3 +211,28 @@
     
 # print(sum(stocks))
 
+
+# 14 - Tikinti sənayesi:
+# Tikinti layihəsi üçün lazım olan materialların ümumi dəyərini hesablayan Python proqramını hazırlayın. 
+# Proqram hər bir materialın kəmiyyəti və qiyməti ilə bağlı məlumatları daxil etməli və sonra ümumi dəyəri çap etməlidir. 
+# 1 ev üçün taxta , sement, qum və dəmir inputları olacaq
+
+# materials = []
+
+# for _ in range(1):
+#     wood_quantity = int((input('Taxtanın kəmiyyətini(həcmini) daxil edin: ')))
+#     wood_price = int((input('Taxtanın qiymətini daxil edin: ')))
+#     cement_quantity = int((input('Sementin kəmiyyətini(həcmini) daxil edin: ')))
+#     cement_price = int((input('Sementin qiymətini daxil edin: ')))
+#     sand_quantity = int((input('Qumun kəmiyyətini(həcmini) daxil edin: ')))
+#     sand_price = int((input('Qumun qiymətini daxil edin: ')))
+#     iron_quantity = int((input('Dəmirin kəmiyyətini(həcmini) daxil edin: ')))
+#     iron_price = int((input('Dəmirin qiymətini daxil edin: ')))
+
+
+#     all = (wood_quantity*wood_price+cement_price*cement_quantity+sand_price*sand_quantity+iron_price*iron_quantity)
+#     materials.append(all)
+
+    
+#     print(materials)
+
