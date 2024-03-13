@@ -199,15 +199,15 @@
 # Səhm portfelinin ümumi dəyərini hesablayan Python proqramı yaradın. Proqram sahib olduğu səhmlərin sayı və 
 # onların müvafiq qiymətləri ilə bağlı məlumatları qəbul etməli, sonra ümumi dəyəri çıxarmalıdır.
 # Proqram 3 dəfə məlumat almalıdır.
+
 # stocks = []
 
 # for _ in range(3):
-#     name = (input('Səhmin adını daxil edin: '))
 #     quantity = int((input('Səhmin sayını daxil edin: ')))
 #     price = int((input('Səhmin qiymətini daxil edin: ')))
 #     all = (quantity * price)
 #     stocks.append(all)
-    
 
-# print(stocks)
+    
+# print(sum(stocks))
 
